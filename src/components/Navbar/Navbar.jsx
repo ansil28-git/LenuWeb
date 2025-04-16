@@ -20,7 +20,7 @@ function Navbar() {
 
   return (
     <div>
-      <nav className='text-amber-50 bg-gradient-to-b from-sky-700 to-sky-800 mx-auto px-4 container h-16 flex justify-between items-center shadow-md fixed z-10 '>
+      <nav className='text-amber-50 bg-gradient-to-b from-sky-700 to-sky-800 mx-auto px-4 container h-16 flex justify-between items-center shadow-md fixed z-10 max-w-400 '>
         <div className='flex items-center h-50'>
           <img className='w-auto h-50' src={logo} alt="logoimage" />
         </div>
