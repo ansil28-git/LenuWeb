@@ -8,7 +8,7 @@ function Contact() {
       <h1 className='text-center font-bold text-3xl text-shadow-md md:mt-30 mt-15'>FOR DIRECT <span className='text-sky-700'>INQUIRY</span></h1>
       <div className='p-5 mt-6  bg-gray-300 shadow-xl rounded-2xl w-full max-w-xl mx-auto mb-'>
         <div className='mt-2 flex justify-center items-center'>
-        <h2 className='md:text-xl text-lg font-bold  md:mr-4 mr-3  '>Gmail ID: Lenu88@XX.gmail.com</h2>
+        <h2 className='md:text-xl sm:text-lg font-bold  md:mr-4 mr-3  '>Gmail ID: Lenu88@XX.gmail.com</h2>
         < SiGmail className='text-2xl text-indigo-800'/>
         </div>
         <div className='flex justify-center items-center mt-3'>
